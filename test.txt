@@ -1,0 +1,5 @@
+测试上传到github上
+public static void main(String[] args){
+
+	System.out.println("hello world");
+}
